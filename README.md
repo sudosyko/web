@@ -18,16 +18,16 @@ Erstelle eine einfache HTML Seite über ein freiwählbares Thema (Hobby, Arbeit,
 ### Anforderungen
 
 Dokumenttyp-Definition: Die Seite muss mit einer Dokumenttyp-Definition beginnen, die sie als HTML5-Dokument identifiziert.
-Kopfbereich (<head>): Der Headbereich muss mindestens die folgenden Elemente enthalten:
-Titel (<title>): Lege einen passenden Titel für die Seite fest.
+Kopfbereich `<head>`: Der Headbereich muss mindestens die folgenden Elemente enthalten:
+Titel `<title>`: Lege einen passenden Titel für die Seite fest.
 Meta-Charset: Definiere das Zeichensetzung als UTF-8.
-Körperbereich (<body>): Der Bodybereich der Seite muss mindestens die folgenden Elemente enthalten:
-Semantische HTML5-Elemente: Verwende Strukturelemente wie <header>, <main>, <article>, <aside>, <footer> usw., um die Seite klar zu strukturieren.
-Überschrift (<h1>): Erstelle eine Hauptüberschrift für die Seite.
-Absatz (<p>): Schreibe mindestens einen Absatz, der die Seite beschreibt.
-Bild (<img>): Füge mindestens ein Bild ein (Du kannst auch einen Link zu einem Online-Bild verwenden).
-Liste (<ul> oder <ol>): Erstelle eine ungeordnete oder geordnete Liste mit mindestens drei Punkten.
-Link (<a>): Füge mindestens einen Hyperlink zu einer beliebigen Webseite hinzu.
+Körperbereich `<body>`: Der Bodybereich der Seite muss mindestens die folgenden Elemente enthalten:
+Semantische HTML5-Elemente: Verwende Strukturelemente wie `<header>`, `<main>`, `<article>`, `<aside>`, `<footer>` usw., um die Seite klar zu strukturieren.
+Überschrift `<h1>`: Erstelle eine Hauptüberschrift für die Seite.
+Absatz `<p>`: Schreibe mindestens einen Absatz, der die Seite beschreibt.
+Bild `<img>`: Füge mindestens ein Bild ein (Du kannst auch einen Link zu einem Online-Bild verwenden).
+Liste `<ul>` oder `<ol>`: Erstelle eine ungeordnete oder geordnete Liste mit mindestens drei Punkten.
+Link `<a>`: Füge mindestens einen Hyperlink zu einer beliebigen Webseite hinzu.
 
 ### Auftrag Advanced - Seite zusätzlich mit CSS stylen
 
