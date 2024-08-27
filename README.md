@@ -1,4 +1,4 @@
-# hf web module documentation
+# HF WEB: Module Documentation
 
 ## Übung 1
 Übungsaufgabe - Grundlagen HTML
